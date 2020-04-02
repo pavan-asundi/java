@@ -5,7 +5,7 @@ public class Hello {
         h.returnNone();
     }
 
-    public void returnNone(){
-        return;
+    public String returnNone(){
+        return "hi";
     }
 }
